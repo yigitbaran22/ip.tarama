@@ -1,1 +1,3 @@
-# ip.tarama
+cd Desktop
+chmod +x ip.tarama.py
+./ip.tarama.py
